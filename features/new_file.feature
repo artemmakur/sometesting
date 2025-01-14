@@ -3,4 +3,4 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
-    <blabla feature>
+    <blabla feature update>
