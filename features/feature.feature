@@ -1,5 +1,5 @@
 Feature:
-  <Some interesting description here>
+  ahoj
 
   Scenario:
-    <Some interesting scenario steps here>
+    cus kamo
