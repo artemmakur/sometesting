@@ -2,6 +2,6 @@ Feature:
   <Some interesting description here>
 
   Scenario:
-    <Some interesting scenario steps here>
+    <Modification>
 When I go
 Then I go
