@@ -4,4 +4,3 @@ Feature:
   Scenario:
     <Some interesting scenario steps here>
     <cool content>
-    <extension>
