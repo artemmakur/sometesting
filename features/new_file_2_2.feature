@@ -3,3 +3,5 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
+When editing from github
+Then update in jira
