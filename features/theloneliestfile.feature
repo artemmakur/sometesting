@@ -3,3 +3,4 @@ Feature:
 
   Scenario:
     <bubububububu>
+    <hello>
