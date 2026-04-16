@@ -5,3 +5,5 @@ Feature:
     <Some interesting scenario steps here>
     <cool content>
     <even cooler content>
+    When when when
+    Then then then
