@@ -3,3 +3,6 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
+When
+Then
+And thank you for coming to my ted talk
